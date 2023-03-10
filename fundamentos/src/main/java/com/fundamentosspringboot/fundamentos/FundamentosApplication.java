@@ -1,4 +1,7 @@
 package com.fundamentosspringboot.fundamentos;
+/*
+* Clase main
+* */
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
