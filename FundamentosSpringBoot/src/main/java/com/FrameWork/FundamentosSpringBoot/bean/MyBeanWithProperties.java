@@ -1,2 +1,5 @@
-package com.FrameWork.FundamentosSpringBoot.bean;public interface MyBeanWithProperties {
+package com.FrameWork.FundamentosSpringBoot.bean;
+
+public interface MyBeanWithProperties {
+    String funcion();
 }
